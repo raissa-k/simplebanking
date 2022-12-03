@@ -2,6 +2,8 @@
 
 Some practice of OOP concepts in Java, with groundwork for implementation of tests.
 
+- [x] Added: terminal prompts for client name, amount to deposit and amount to transfer
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:
